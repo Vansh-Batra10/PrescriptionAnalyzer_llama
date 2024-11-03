@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlalchemy
+jose
+PyPDF2
+passlib[bcrypt]
+langchain
